@@ -1,6 +1,8 @@
 # RiceRocks
 An implementation of the classic Asteroids game as part of the 'An Introduction to Interactive Programming in Python' Rice University course (https://www.coursera.org/course/interactivepython1). 
 
+![screenshot](http://i.imgur.com/RqU4DsN.jpg "RiceRocks")
+
 # Installation
 You don't need to install anything, as a matter of fact, this game won't even run as a Python program. 
 
@@ -13,16 +15,14 @@ Hit Run!
 
 ## Controls
 
-Use the arrow keys to navigate your ship. 
-
+Use the arrow keys to navigate your ship:
 ```
 Up - throttle
-Left - turn let
+Left - turn left
 Right - turn right
 ```
 
-Weapons
-
+Weapons:
 ```
 Space - fire missile
 ```
